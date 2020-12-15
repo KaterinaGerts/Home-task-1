@@ -1,95 +1,12 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Веб студия</title>
-</head>
-<body>
-    <!-- Шапка сайта -->
-  <header>
-      <nav>
-          <p lang="en">WebStudio</p>
-          <ul>
-              <li>
-                  <a href="#">Студия</a>
-              </li>
-              <li>
-                  <a href="#">Портфолио</a>
-              </li>
-              <li>
-                  <a href="#">Контакты</a>
-              </li>              
-          </ul>
-      </nav>      
-        <address>
-            <a href="info@devstudio.com">info@devstudio.com</a>        
-            <a href="+380961111111">+38 096 111 11 11</a>
-        </address>   
-  </header> 
-   <!-- /Шапка сайта --> 
-   <main>
-       <!-- Верхняя секция сайта -->
-       <section>           
-            <h1>Эффективные решения для вашего бизнеса</h1>            
-            <a href="#">Заказать услугу</a>
-        </section>
-        <section>
-            <nav>
-                <h4>Внимание к деталям</h4>
-                <p>Идейные соображения, а также начало повседневной работы по формированию позиции.</p>                           
-                <h4>Пунктуальность</h4>
-                <p>Задача организации, в особенности же рамки и место обучения кадров влечет за собой.</p>            
-                <h4>Планирование</h4>
-                <p>Равным образом консультация с широким активом в значительной степени обуславливает.</p>            
-                <h4>Современные технологии</h4>
-                <p>Значимость этих проблем настолько очевидна, что реализация плановых заданий.</p>
-            </nav>
-        </section>
-        <!-- /Верхняя секция сайта -->
-        <!-- Картинки - описание деятельности-->
-        <section>
-            <h3>Чем мы занимаемся</h3>
-            <ul>
-                <li><img src="./img/activity-img1.jpg" alt="верстка сайта" width="370" height="294"></li>
-                <li><img src="./img/activity-img2.jpg" alt="дизайн приложения на мобильном устройстве" width="370" height="294"></li>
-                <li><img src="./img/activity-img3.jpg" alt="тестирование приложения" width="370" height="294"></li>
-            </ul>
-        </section>
-        <!-- /Картинки - описание деятельности-->
-        <!-- Мастера -->
-        <section>
-            <h3>Наша команда</h3>
-            <ul>
-                <li><img src="./img/team-img1.jpg" alt="Игорь Демьяненко" width="270" height="260">
-                    <h4>Игорь Демьяненко</h4>
-                    <p lang="en">Product Designer</p>
-                </li>
-                <li><img src="./img/team-img2.jpg" alt="Ольга Репина" width="270" height="260">
-                    <h4>Ольга Репина</h4>
-                    <p lang="en">Frontend Developer</p>
-                </li>
-                <li><img src="./img/team-img3.jpg" alt="Николай Тарасов" width="270" height="260"> 
-                    <h4>Николай Тарасов</h4>
-                    <p lang="en">Marketing</p>
-                </li>
-                <li><img src="./img/team-img4.jpg" alt="Михаил Ермаков" width="270" height="260">
-                    <h4>Михаил Ермаков</h4>
-                    <p lang="en">UI Designer</p> 
-                </li>               
-            </ul>
-        </section>
-        <!-- /Мастера -->
-   </main>
-   <!-- Контакты -->
-   <footer>
-    <p lang="en">WebStudio</p>
-    <address>
-    <p>г. Киев, пр-т Леси Украинки, 26</p>    
-        <a href="info@devstudio.com">info@devstudio.com</a>    
-        <a href="+380961111111">+38 096 111 11 11</a>
-    </address>      
-   </footer>
-   <!-- Контакты -->
-</body>
-</html>
+{
+  "printWidth": 80,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "arrowParens": "avoid",
+  "proseWrap": "always"
+}
